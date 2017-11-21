@@ -4,4 +4,5 @@
 * Batman
 * Daredevil
 * Aquaman
-* Mujer Maravilla
+* Mujer Maravilla es de DC
+Spiderman
