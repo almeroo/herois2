@@ -4,5 +4,6 @@
 * Batman
 * Daredevil
 * Aquaman
-* Mujer Maravilla es de DC
-Spiderman
+* Mujer Maravilla
+* Jessica jone es de marvel
+* Spiderman
